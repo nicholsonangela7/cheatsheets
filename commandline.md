@@ -97,5 +97,10 @@ make && make install   # "make install" will run only if "make" is successful
 ###Angela's edits
 
 UNIX Commands
-```
+
 mkdir makes a new directory
+```mkdir planets
+cd planets
+ls planets
+```
+
